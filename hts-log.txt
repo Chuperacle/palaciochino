@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 12 Nov 2022 23:50:28 at https://premiumlayers.com/html/maxrestaurant/?storefront=envato-elements +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://premiumlayers.com/html/maxrestaurant/?storefront=envato-elements -O1 "C:\Users\chupex\Documents\HTTTRACK\restaurant" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:50:30	Error: 	"Internal Server Error" (500) after 2 retries at link https://premiumlayers.com/robots.txt (from primary/primary)
+23:50:47	Warning: 	Retry after error 500 (Internal Server Error) at link https://premiumlayers.com/html/maxrestaurant/assets/images//apple-touch-icon-72x72-precomposed.png (from https://premiumlayers.com/html/maxrestaurant/?storefront=envato-elements)
+23:51:14	Warning: 	Retry after error 500 (Internal Server Error) at link https://premiumlayers.com/html/maxrestaurant/assets/images//apple-touch-icon-72x72-precomposed.png (from https://premiumlayers.com/html/maxrestaurant/?storefront=envato-elements)
+23:51:14	Warning: 	File not parsed, looks like binary: https://premiumlayers.com/html/maxrestaurant/assets/revolution/css/openhand.cur
+23:51:14	Warning: 	File not parsed, looks like binary: https://premiumlayers.com/html/maxrestaurant/assets/revolution/css/closedhand.cur
+23:51:16	Error: 	"Internal Server Error" (500) after 2 retries at link https://premiumlayers.com/html/maxrestaurant/assets/images//apple-touch-icon-72x72-precomposed.png (from https://premiumlayers.com/html/maxrestaurant/?storefront=envato-elements)
+
+HTTrack Website Copier/3.49-2 mirror complete in 48 seconds : 176 links scanned, 172 files written (11465372 bytes overall) [11518759 bytes received at 239974 bytes/sec], 17.6 requests per connection
+(2 errors, 4 warnings, 0 messages)
